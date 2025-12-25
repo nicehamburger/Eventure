@@ -1,6 +1,6 @@
 # Eventure — Event Lottery System
 
-Eventure is an Android application designed to provide a fair and low-stress way for community members to access high-demand events. Instead of a traditional *first-come, first-served* model—which often favors fast internet connections or flexible schedules—Eventure uses a **pooling and lottery-based registration system**.
+Eventure is an Android application designed to provide a fair and low-stress way for community members to access high-demand events. Instead of a traditional *first-come, first-served* model—which often favors fast internet connections or flexible schedules - Eventure uses a **pooling and lottery-based registration system**.
 
 Users join an event’s waiting pool during a defined registration window. Once registration closes, organizers randomly select participants, ensuring equal opportunity for all entrants.
 
