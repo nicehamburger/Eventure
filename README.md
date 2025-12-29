@@ -44,7 +44,7 @@ https://github.com/CMPUT301F25hotpot0/hotpot0-match
 ---
 
 ## App Design
-![p](https://github.com/user-attachments/assets/b05c6857-a562-4cba-a84b-2f806a0bf1de)
+![des](https://github.com/user-attachments/assets/09fe0c24-ca28-4258-aadb-d54e02da505c)
 
 ---
 
